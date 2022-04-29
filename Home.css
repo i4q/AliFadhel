@@ -115,3 +115,14 @@ footer {
     }
     
 }
+
+@media (max-width: 300px) {
+    .InformationsHeader {
+        padding: 10px 50px;
+    }
+
+    .InformationsHeader-T {
+        font-size: 6px;
+    }
+
+}
