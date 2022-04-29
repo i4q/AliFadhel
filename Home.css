@@ -72,3 +72,46 @@ footer {
     font-weight: 600;
     font-size: 10px;
 }
+
+@media (max-width: 630px) {
+    .InformationsHeader {
+        padding: 10px 100px;
+    }
+}
+
+@media (max-width: 530px) {
+    .InformationsHeader {
+        padding: 10px 90px;
+    }
+    
+}
+
+@media (max-width: 470px) {
+    .InformationsHeader {
+        padding: 10px 60px;
+    }
+ 
+}
+
+@media (max-width: 400px) {
+    .InformationsHeader {
+        padding: 10px 60px;
+    }
+
+    .InformationsHeader-T {
+        font-size: 13px;
+    }
+
+}
+
+
+@media (max-width: 370px) {
+    .InformationsHeader {
+        padding: 10px 50px;
+    }
+
+    .InformationsHeader-T {
+        font-size: 12px;
+    }
+    
+}
